@@ -1,0 +1,5 @@
+Para poder ejecutar el script, primero crear un ambiente, y dentro de ese ambiente, instalar las 
+librerias que se requieren, con el siguiente comando para la terminal, 'pip install -r requirements.txt'.
+
+Despues para ejecura el script, es con el siguiente codigo desde la terminal: 'python main.py -i IMG_6462.jpg'
+Se puede elegir cuantos clusters se pueden crear agregando 'python main.py -i IMG_6462.jpg -k 6'
